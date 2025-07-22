@@ -38,7 +38,7 @@ def driver():
 print("Функция driver определена успешно!")
 
 class FormPage:
-    URL = "https://practice-automation.com/form-fields/"
+    URL = "https://example.com/"
 
     def __init__(self, driver):
         self.driver = driver
